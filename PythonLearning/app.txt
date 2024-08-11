@@ -1,0 +1,11 @@
+************* Module app
+app.py:9:0: C0304: Final newline missing (missing-final-newline)
+app.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+app.py:7:0: W0622: Redefining built-in 'sum' (redefined-builtin)
+app.py:3:0: C0103: Constant name "num1" doesn't conform to UPPER_CASE naming style (invalid-name)
+app.py:5:0: C0103: Constant name "num2" doesn't conform to UPPER_CASE naming style (invalid-name)
+app.py:7:0: C0103: Constant name "sum" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 0.00/10 (previous run: 0.00/10, +0.00)
+
