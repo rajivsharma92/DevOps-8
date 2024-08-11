@@ -1,5 +1,5 @@
 class Car:
-
+#template used to create a car
     def __init__(self, maker, color, topSpeed): # Constructor 
         self.maker = maker
         self.color = color
